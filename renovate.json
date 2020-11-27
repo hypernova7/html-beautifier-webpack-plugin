@@ -1,0 +1,15 @@
+{
+  "extends": [
+    "config:base"
+  ],
+  "baseBranches": [
+    "test"
+  ],
+  "lockFileMaintenance": {
+    "enabled": true
+  },
+  "labels": [
+    "renovate",
+    "dependencies"
+  ]
+}
